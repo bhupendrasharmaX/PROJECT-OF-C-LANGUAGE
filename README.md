@@ -68,7 +68,7 @@ GitHub: [@bhupendrasharmaX](https://github.com/bhupendrasharmaX)
 
 ## ⭐ Show Your Support
 
-If you find this helpful, please **star ⭐ the repository** — it motivates me to build more!
+If you find this helpful, please **star ⭐ the repository** it motivates me to build more!
 
 ---
 
